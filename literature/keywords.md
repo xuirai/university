@@ -23,6 +23,16 @@
 - 日本人学校（※インターとは別概念だが比較で出てくる）
 - 外国人学校
 
+### 指導教員の専門との接続キーワード
+- 第二言語習得／SLA
+- 早期英語教育
+- バイリンガル教育／バイリンガリズム
+- イマージョン教育
+- CLIL（内容言語統合型学習）
+- 多言語社会／多言語主義
+- 言語政策
+- テキストマイニング／言説分析（方法論として）
+
 ## 英語キーワード
 
 ### Core
@@ -41,6 +51,17 @@
 - private education Japan
 - Japanese families international schools
 - middle-class strategy education
+
+### Supervisor's specialty (SLA / multilingual society)
+- second language acquisition (SLA)
+- early English education Japan
+- bilingual education
+- immersion education
+- CLIL
+- multilingualism
+- language policy Japan
+- discourse analysis education
+- text mining education research
 
 ## データベース／情報源
 
