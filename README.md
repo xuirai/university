@@ -34,14 +34,22 @@ university/
 │   ├── statistics/     # 統計データ（IB機構、JCIS等）
 │   └── media/          # 新聞・雑誌記事
 ├── thesis/             # 本文作業
+│   ├── outline.md      # 章立て案
+│   ├── method-notes.md # テキスト分析の準備メモ
 │   └── drafts/         # 章ごとの原稿
+├── meetings/           # 指導教員との面談記録・準備
 ├── references.bib      # BibTeX 参考文献DB
 └── schedule.md         # 進捗管理
 ```
 
-## 次にやること（2026年4月）
+## 次にやること
 
-1. 指導教員（島内先生）にメールで初回面談のアポを取る
+### 直近：2026年4月23日 初回面談
+- `meetings/2026-04-23_kickoff.md`：面談準備チェックリスト・質問リスト
+- `meetings/2026-04-23_handout.md`：先生に見せる1枚サマリー
+
+### 4月末までに
+1. 面談結果を `topic/research-question.md` に反映
 2. `literature/keywords.md` のキーワードで先行研究を検索（CiNii、Google Scholar）
 3. ヒットした論文を `literature/notes/` にテンプレートに沿ってメモ化（まず5本）
 4. 大学図書館で利用可能な新聞記事DB（日経テレコン等）を確認
